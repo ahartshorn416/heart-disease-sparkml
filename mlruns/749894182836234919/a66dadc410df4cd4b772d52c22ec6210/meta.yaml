@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/spark_ml_project/mlruns/749894182836234919/a66dadc410df4cd4b772d52c22ec6210/artifacts
+end_time: 1782356424192
+entry_point_name: ''
+experiment_id: '749894182836234919'
+lifecycle_stage: active
+run_id: a66dadc410df4cd4b772d52c22ec6210
+run_name: GradientBoostedTrees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782356405528
+status: 3
+tags: []
+user_id: root

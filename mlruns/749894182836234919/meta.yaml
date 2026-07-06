@@ -1,0 +1,9 @@
+artifact_location: file:///home/claude/spark_ml_project/mlruns/749894182836234919
+creation_time: 1782356368547
+effective_trace_archival_retention: null
+experiment_id: '749894182836234919'
+last_update_time: 1782356368547
+lifecycle_stage: active
+name: HeartDisease_SparkML
+trace_location: null
+workspace: default

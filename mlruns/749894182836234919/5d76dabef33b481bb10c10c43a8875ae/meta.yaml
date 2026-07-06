@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/spark_ml_project/mlruns/749894182836234919/5d76dabef33b481bb10c10c43a8875ae/artifacts
+end_time: 1782356386967
+entry_point_name: ''
+experiment_id: '749894182836234919'
+lifecycle_stage: active
+run_id: 5d76dabef33b481bb10c10c43a8875ae
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782356368767
+status: 3
+tags: []
+user_id: root

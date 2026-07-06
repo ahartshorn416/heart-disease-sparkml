@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/spark_ml_project/mlruns/749894182836234919/e2faab13b2b14bec931c2f996622ec99/artifacts
+end_time: 1782356396059
+entry_point_name: ''
+experiment_id: '749894182836234919'
+lifecycle_stage: active
+run_id: e2faab13b2b14bec931c2f996622ec99
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782356386973
+status: 3
+tags: []
+user_id: root

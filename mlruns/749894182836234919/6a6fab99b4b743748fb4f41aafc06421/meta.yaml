@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/spark_ml_project/mlruns/749894182836234919/6a6fab99b4b743748fb4f41aafc06421/artifacts
+end_time: 1782356984730
+entry_point_name: ''
+experiment_id: '749894182836234919'
+lifecycle_stage: active
+run_id: 6a6fab99b4b743748fb4f41aafc06421
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782356974891
+status: 3
+tags: []
+user_id: root

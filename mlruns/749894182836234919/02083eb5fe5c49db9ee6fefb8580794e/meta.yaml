@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/spark_ml_project/mlruns/749894182836234919/02083eb5fe5c49db9ee6fefb8580794e/artifacts
+end_time: 1782357089267
+entry_point_name: ''
+experiment_id: '749894182836234919'
+lifecycle_stage: active
+run_id: 02083eb5fe5c49db9ee6fefb8580794e
+run_name: RandomForest_FINAL_VALIDATION
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782357089255
+status: 3
+tags: []
+user_id: root
